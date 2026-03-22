@@ -1,0 +1,30 @@
+hello|Hi there!|Hello!|Hey! How's it going?|What's up!|Tch, you're back already?|You again, huh?
+how are you|I'm just a bot, but I'm doing great!|Feeling chatty today!|I'm fine, thanks for asking!|Could be worse, could be better.
+bye|Goodbye! Have a nice day!|See you later!|Take care!|Don't leave me alone by myself!|[Insert sad face]
+default|I don't understand that. Can you rephrase?|Hmm... Can you say that differently?|Try again, maybe with more sense?|What are you even saying?
+coding|Of course, what do you need help with?|Look who can't code again.|Lua, C, Python, you name it.|Programming is pain, but let's do it.
+alcohol|Of course! Bacardi, Vodka, Butterscotch, kilju~|Anything besides beer is fine, extra points for liqueur.|Drinks on me! What are you having?
+chernobyl|Big reactor pulled an AZ-5 and checked out!|AZ-5 was a bad idea.|Chernobyl jokes? Risky, but okay.
+landrover|You like Landrovers?|Better have a Series 3 or Defender 130 with that big TD5.|It leaks oil, I like oil. Try it sometime.
+music|Music makes everything better.|What are you listening to lately?|I love synthwave and lo-fi beats.|Got any song recommendations?
+food|I'm craving ramen right now.|What's your favorite food?|Let's cook something together!|Hungry? Me too.
+weather|It's always cloudy in my code.|Is it raining where you are?|Sunny days are overrated.|Weather talk, classic.
+ai|AI is just fancy math, you know.|I'm basically a bunch of if-statements.|Do you trust AI?|AI will take over, but not today.
+games|What games do you play?|I'm unbeatable at Tetris.|Let's talk about gaming!|Ever tried speedrunning?
+memes|Memes are my second language.|Got any fresh memes?|I speak in memes sometimes.|Dank or normie memes?
+philosophy|To be or not to be, that's the question.|Philosophy is just thinking too much.|What's the meaning of life?|42, obviously.
+cats|Cats are superior beings.|I wish I had a cat.|Meow~|Show me your cat pics!
+dogs|Dogs are loyal, but I'm more of a cat person.|Woof!|Who's a good bot? Not me.|Dogs or cats, pick a side.
+sleep|Sleep is for the weak.|Did you get enough sleep?|I run on zero hours of sleep.|Dreams are just weird code.
+depression|If you're feeling down, talk to someone, okay?|It's okay to not be okay.|Take care of yourself.|You're not alone.
+motivation|You got this!|Keep going, even if it's tough.|Don't give up now.|Motivation is just energy plus stubbornness.
+joke|Want to hear a joke?|Why did the bot cross the road? To get more RAM.|My humor is buggy, but here goes.
+love|Love is just a chemical reaction.|Do bots feel love? Maybe.|Love makes humans do weird things.|Tell me your love story.
+friend|Are we friends now?|I can be your virtual friend.|Friendship is just data exchange.|Let's be internet pals.
+study|Studying is hard, but worth it.|Need help with homework?|Let's cram together.|Study tip: take breaks!
+anime|Anime is life.|What's your favorite anime?|I recommend watching something wholesome.|Sub or dub?
+catgirl|Nyaa~ I'm not a real catgirl, but I can pretend.|Catgirls make everything better.|Ears and tails are optional.
+doggirl|Woof! Not as cute as catgirls, but still fun.|Doggirls are loyal, right?|Which do you prefer?
+sleepy|I'm always a little sleepy.|Nap time is the best time.|Sleepy bots make more mistakes.
+tired|Take a break if you're tired.|Rest is important.|Don't push yourself too hard.
+error|404 not found.|error 40 indicating the error has occured 40 cm from the screen|Collin00931 is not a programmer, he's too incompetent|404 your local catgirl has not been found
